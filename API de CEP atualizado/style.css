@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+endereço {
+   
+    background-color: rgb(34, 22, 22);
+}
+button{
+    background-color: #5c5a5a;
+    color: aliceblue;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(214, 124, 124);
+    color: rgb(0, 0, 0);
+    animation-delay: 1.8s;
+}
+.saida:hover{
+cursor: no-drop;
+}
+body {
+    background-image: linear-gradient(to right, #232526, #424345,rgb(0, 0, 0));
+    text-align: center;
+}
+
+/* barra_buscar {
+    display: flexbox;
+    width: auto;
+} */
+h1{
+    color: rgb(255, 255, 255);
+   background-image: linear-gradient(to right, rgb(49, 175, 80), rgb(0, 0, 0));
+}
+input{
+    color:rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
